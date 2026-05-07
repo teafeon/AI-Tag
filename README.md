@@ -59,4 +59,3 @@ J / L: Turn Left/Right
 Spacebar: Jump
 
 V / K: Toggle Camera Perspectives# AI-Tag
-# AI-Tag
